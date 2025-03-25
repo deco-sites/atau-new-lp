@@ -1,1 +1,70 @@
-{"__resolveType":"site/sections/Footer.tsx","links":[],"bottomLinks":[],"social":[],"subscribe":{}}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Minha conta"
+        },
+        {
+          "label": "Fale conosco"
+        },
+        {
+          "label": "Dúvidas frequentes"
+        }
+      ],
+      "title": "Navegação"
+    },
+    {
+      "title": "Informações",
+      "items": [
+        {
+          "label": "Política de entrega"
+        },
+        {
+          "label": "Política de privacidade"
+        },
+        {
+          "label": "Formas de pagamento"
+        }
+      ]
+    },
+    {
+      "items": []
+    }
+  ],
+  "bottomLinks": [
+    {}
+  ],
+  "social": [
+    {
+      "network": "Facebook",
+      "href": "#"
+    },
+    {
+      "network": "Instagram",
+      "href": "#"
+    },
+    {
+      "network": "X - Twitter",
+      "href": "#"
+    },
+    {
+      "network": "Youtube",
+      "href": "3"
+    }
+  ],
+  "subscribe": {
+    "title": "Cadastre-se",
+    "description": "E receba as atualizações",
+    "instructions": "<p></p>"
+  },
+  "logo": {
+    "src": "https://data.decoassets.com/atau-new-lp/7e8575a1-caf5-452b-9bcf-361b64f6e495/fd21ea8e-0f95-4445-99ca-6d94086788ce.png",
+    "alt": "HUIADSHFUAHFAS"
+  },
+  "madeWith": {
+    "src": "https://data.decoassets.com/atau-new-lp/b89a9276-717e-497c-b93e-4c0b13f3708d/Logotipo-vtipografia-2-(1).png",
+    "label": "Made with"
+  }
+}
